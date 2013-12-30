@@ -23,20 +23,15 @@ Ruby Fundamentals is essentially the Ruby in 100 minutes curriculum,
 except that it will be a LOT of exercises and drills rather than a
 read-through type thing.
 
-Wednesday - "Here Comes the Unicorn", Ruby Fundamentals, then Intro to
-CSV, 1A.
+Wednesday - [Intro to TDD](http://tutorials.jumpstartlab.com/academy/workshops/intro-to-tdd.html),
+Ruby Fundamentals, then Intro to CSV, 1A.
 
-Here Comes the Unicorn is a 2 hour (or so) instructor-led session
-that takes a very small test suite:
+Intro to TDD is a 2 hour (or so) instructor-led session that walks through the
+TDD process for a very simple object - a unicorn that has a name, is usually
+white, and which says sparkly things.
 
-https://github.com/JumpstartLab/tdd-exercises/blob/master/unicorn_test.rb
-
-It starts by running the tests, and for every single error we talk about
-how to read the error, what it means, and the ruby concepts that you
-need to understand the error and to fix it.
-
-I did this session off the cuff with the students who were struggling,
-and it was very useful.
+I did this session off the cuff with the students who were struggling in
+gschool[1] and it was very useful.
 
 The Intro to CSV is a whole set of tutorials/exercises. It's 3 layers
 (I, II, and III), five exercises in each (A, B, C, D, E).

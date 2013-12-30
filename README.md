@@ -8,6 +8,7 @@ See the ongoing [TODO list](https://github.com/JumpstartLab/turing/issues/1).
 
 ### Resources
 
+* [intro to tdd](http://tutorials.jumpstartlab.com/academy/workshops/intro-to-tdd.html)
 * [command-query exercises](https://github.com/JumpstartLab/fundamentals/tree/master/command-query)
 * [simple objects exercises](https://github.com/JumpstartLab/tdd-exercises)
 * [enumerables exercises](https://github.com/JumpstartLab/enums-exercises/tree/master/exercises)
