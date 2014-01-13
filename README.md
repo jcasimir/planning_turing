@@ -10,6 +10,8 @@ See the ongoing [TODO list](https://github.com/JumpstartLab/turing/issues/1).
 
 * [intro to tdd](http://tutorials.jumpstartlab.com/academy/workshops/intro-to-tdd.html)
 * [command-query exercises](https://github.com/JumpstartLab/fundamentals/tree/master/command-query)
+* [shovel/shift exercises](https://github.com/JumpstartLab/fundamentals/tree/master/shovel-and-shift)
+* [comparison exercises](https://github.com/JumpstartLab/fundamentals/tree/master/comparisons)
 * [simple objects exercises](https://github.com/JumpstartLab/tdd-exercises)
 * [enumerables exercises](https://github.com/JumpstartLab/enums-exercises/tree/master/exercises)
 * [objects and data I - tutorial](http://tutorials.jumpstartlab.com/academy/workshops/csv/i.html)
