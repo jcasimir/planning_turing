@@ -8,17 +8,16 @@ See the ongoing [TODO list](https://github.com/JumpstartLab/turing/issues/1).
 
 ### Resources
 
+#### Ruby Fundamentals
+
 * [intro to tdd](http://tutorials.jumpstartlab.com/academy/workshops/intro-to-tdd.html)
-* [command-query exercises](https://github.com/JumpstartLab/fundamentals/tree/master/command-query)
-* [shovel/shift exercises](https://github.com/JumpstartLab/fundamentals/tree/master/shovel-and-shift)
-* [comparison exercises](https://github.com/JumpstartLab/fundamentals/tree/master/comparisons)
-* [simple objects exercises](https://github.com/JumpstartLab/tdd-exercises)
-* [enumerables exercises](https://github.com/JumpstartLab/enums-exercises/tree/master/exercises)
-* [objects and data I - tutorial](http://tutorials.jumpstartlab.com/academy/workshops/csv/i.html)
-* [objects and data I - exercises](https://github.com/JumpstartLab/csv-exercises/tree/level-i)
-* [objects and data II - tutorial](http://tutorials.jumpstartlab.com/academy/workshops/csv/ii.html)
-* [objects and data II - exercises](https://github.com/JumpstartLab/csv-exercises/tree/level-ii)
 * [objects and methods - tutorial](http://tutorials.jumpstartlab.com/academy/workshops/objects_and_methods.html)
-* [objects and methods I - exercises](https://github.com/JumpstartLab/halloween/tree/exercise-1)
-* [objects and methods II - exercises](https://github.com/JumpstartLab/halloween/tree/exercise-2)
+* [ruby exercises](https://github.com/JumpstartLab/ruby-exercises) (core types, comparisons, shovel/shift, command-query, mythical creatures, objects and methods)
+* [enumerables exercises](https://github.com/JumpstartLab/enums-exercises/tree/master/exercises)
+
+#### Small Application Exercises
+
+* [objects and data I - tutorial](http://tutorials.jumpstartlab.com/academy/workshops/csv/i.html)
+* [objects and data II - tutorial](http://tutorials.jumpstartlab.com/academy/workshops/csv/ii.html)
+* [objects and data - repository](https://github.com/JumpstartLab/csv-exercises)
 
