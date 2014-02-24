@@ -1,22 +1,14 @@
-I have not scheduled a focus week, because I think that reworking this
-turns weeks 1-4 pretty much into focus weeks.
-
-Microblogger, EventManager, Encryptor can all be used to keep the fast
-students occupied/interested.
-
-We can extract little pieces of encryptor and event reporter to create
-fundamentals exercises out of context.
-
 ## Week 1
 
 ### Monday
 
-* Kickoff team-building with improv exercises
+* Kickoff team-building with improv exercises, building desks, scavenger hunt, etc
 
 ### Tuesday
 
 * Environment Setup
-* Ruby100 Fundamentals - exercises, drills, koans, test suites, whatever
+* Ruby in 100 Fundamentals
+* Intro to OS X / command line / text editor
 
 ### Wednesday
 
@@ -26,29 +18,32 @@ Instructor-led session that walks through line by line TDD of https://github.com
 
 #### Independent Work
 
-* Ruby100 Fundamentals continued (can probably mostly work independently)
-* Intro to CSV 1 A (tutorial, can work independently)
+* Recapping Ruby in 100
+* Intro to CSV 1 A
 
 ### Thursday
 
-* Intro to CSV 1 B-E (progressive release of responsibility, can work independently)
+* Intro to CSV 1 B-E (instructor led at first, transitioning to independent)
 
 ## Week 2
 
 ### Monday
 
-* Intro to TDD: Ideabox I (tutorial, can work independently)
+* How TDD Works (lecture/discussion)
+* Intro to TDD: Ideabox I (paired tutorial)
+* Working with Enumerations (lecture/discussion)
 * Enumerables Exercises
-  https://github.com/JumpstartLab/enums-exercises (can work independently)
+  https://github.com/JumpstartLab/enums-exercises (paired tutorial)
 
 ### Tuesday
 
-* Intro to Git - we aren't doing a good job with git. Rethink?
-* Intro to CSV II (A) - tutorial, may need to be fleshed out a bit, they should be able to work independently
+* How Git Works (lecture/discussion)
+* Intro to Git with Code School and Git Immersion (independent work)
+* Intro to CSV II (A) (paired)
 
 ### Wednesday & Thursday
 
-* Intro to CSV II B-E (more of the same, but with progressive release of responsibility. Independent work or pairs)
+* Intro to CSV II B-E (more of the same, but with gradual release of responsibility. Independent work or pairs)
 
 ## Week 3
 
@@ -101,20 +96,3 @@ Sales Engine Project
 ### Tuesday-Thursday
 
 * Ideabox Independent Project (design, features, extensions), demo Thursday afternoon
-
-## Week 7-8
-
-Weeks 7 and 8 are exactly like we did in this session.
-
-### Monday
-
-* Ideabox IV - Sequel tutorial
-* Intro to Clone Wars
-
-### Tuesday-Thursday
-
-* Clone Wars project (in 3s), demo Thursday afternoon
-
-=> Weekend 7/8: Blogger tutorial
-
-Week 8: Start Dinner Dash
