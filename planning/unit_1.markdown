@@ -134,7 +134,17 @@ boilerplate.
 
 # Week 3
 
-Monday - Intro to CLI (A-E)
+## Premise
+
+This week centers around the first real independent project, EventReporter. The project is expanded to 9 work days and the students have significantly more foundation/background and should be more successful than previous classes.
+
+## Goals
+
+## Plan
+
+### Monday
+
+* Intro to CLI (A - E)
 
 CLI means Command Line Interface. Up until now we've only written
 programs that are consumed by the program itself. There's no way for a
@@ -144,12 +154,11 @@ results.
 With CLI we introduce the idea of an interactive program, but not with
 the web, just a simple text-interface in the terminal.
 
-I haven't written the Intro to CLI set of exercises, but again (A) is
-going to be a tutorial that walks the students through every step of the
-exercise, and then (B-E) are exercises where we give them less help,
-boilerplate and hand-holding.
+### Tuesday
 
-Tuesday: Ideabox II (CLI), then Debugging, then Intro to Event Reporter
+* Ideabox II (CLI)
+* Debugging
+* Intro to Event Reporter
 
 The Ideabox II (CLI) is a small project where the students are asked to
 take what they learned in the Intro tutorial/exercises, and add a CLI to
@@ -158,15 +167,24 @@ their Ideabox program from the Ideabox I (TDD) tutorial.
 This would be a full morning session 9-12, and then if they're not done
 they can work on it from home.
 
-We have some content about fundamental debugging practices, but we
-need to develop exercises for it so that they can practice the
-things that we talk about and get comfortable with the ideas.
-
 The Intro to EventReporter is a talk-session where we introduce the
-first real project. It's a project that we gave them a full week to
-finish in the current class, and only a handful of people finished. Most
-people were completely overwhelmed and confused, and we spent a LOT of
-time helping/answering questions/reassuring the students.
+first real project.
+
+### Wednesday
+
+### Thursday
+
+## Additional Resources
+
+## To-Dos
+
+* KO: I haven't written the Intro to CLI set of exercises, but again (A) is
+going to be a tutorial that walks the students through every step of the
+exercise, and then (B-E) are exercises where we give them less help,
+boilerplate and hand-holding.
+* KO: We have some content about fundamental debugging practices, but we
+need to develop exercises for it so that they can practice the
+things that we talk about and get comfortable with the ideas (for Tuesday).
 
 The pieces they need to know to do Event Reporter have all been covered
 in this new version of the curriculum: All the enums exercises, Intro to
