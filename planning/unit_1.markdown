@@ -78,57 +78,59 @@ Fast-moving students can work on:
 * Encryptor
 * Ruby in 100 Minutes
 
-### Lost Pieces
-
-* How TDD Works (lecture/discussion)
-* Intro to TDD: Ideabox I (paired tutorial)
-* Working with Enumerations (lecture/discussion)
-* Enumerables Exercises
-  https://github.com/JumpstartLab/enums-exercises (paired tutorial)
-* Intro to CSV II A-E
-
 ## To-Dos
 
 * JC: I think I'd still like to make space for some of the pulled projects like Encryptor that can synthesize learnings from the smaller activities
 * JC/KO: How much of "Ruby Fundamentals" exists? Can we take advantage of existing resources (ours, outside)?
 * JC/KO: We need to make sure that, for the scheduling of future groups at the same time, these stay in blocks no more than three hours in the classroom per day.
 
-#### JC WORK MARKER
-
 # Week 2
 
-Monday: - Intro to TDD, then Enumerables Exercises
+## Premise
 
-This session's Intro to TDD turned out to be very confusing. I've
-rewritten a tutorial that I think is much better, called "Ideabox I".
+With some grip of fundamental Ruby programming, Week 2 starts to build more significant projects and applications. They approach something you might want to actually build instead of just learning exercises.
 
-Ideabox is/was a tutorial/project that we have done with the students to
-introduce the web, but I'm breaking it apart into much smaller pieces
-and then using it to introduce smaller topics on an ongoing basis.
+## Goals
 
-This is a tutorial where every step is written out, and the students
+## Plan
+
+### Monday
+
+* How TDD Works (lecture/discussion)
+* Intro to TDD with Ideabox I
+* Working with Enumerables (lecture/discussion)
+* Enumerables Exercises
+  https://github.com/JumpstartLab/enums-exercises (paired tutorial)
+
+Ideabox I replaces previous Intro to TDD tutorials and focuses on building the business logic behind what will eventually become the Ideabox web application. This segment is guided tutorial, and the students
 should be able to work through it on their own.
 
 The Enumerables exercises (https://github.com/JumpstartLab/enums-exercises)
-are something I've been working on for the past few weeks
--- drills, essentially. The students should be able to
-work through a lot of this on their own, with instructors present
-for Q&A and clarification.
+are a collection of drills. With Q&A support, the students should be able to
+work through this on their own.
 
-Tuesday: Intro to Git, then Intro to CSV II (A)
+### Tuesday
 
-I don't yet know how to do the git thing. We're doing a terrible job of
-it currently, and this needs a better approach.
+* Intro to Git
+* Intro to CSV II (A)
 
 The Intro to CSV II adds a new layer of complexity to the familiar
 exercises from Intro to CSV I. Again (A) is a full tutorial that walks
 the students through each step.
 
-Wednesday-Thursday:
+### Wednesday & Thursday
 
 Intro to CSV II (B-E) the exercises that repeat the concepts and with
 progressive release of responsibility giving the student less and less
 boilerplate.
+
+## Additional Resources
+
+## To-Dos
+
+* JC: I'm not sure about where to learn about Git. I'd like to see it in the first week, but I don't want it to be a distraction. Maybe in Week 1 we cover the true essentials with something like try.github.com, then in Week 2 dive more deeply into how Git works. That could start with Jim Weirich's conference talk about designing source control then follow with Git Immersion. I wish there were some kind of "capture the flag"-like game for learning/practicing git.
+* JC: Wednesday/Thursday of this week would be a good opportunity to bring skills together into a small project. Maybe Encryptor? We could reframe the concepts into more of an independent project that practices TDD and Enumerations.
+* JC: What are the learning goals for this week? What does CSV II teach them?
 
 # Week 3
 
