@@ -64,9 +64,15 @@ Turing builds professional developers.
 
 We teach languages and frameworks, but we focus on the fundamentals that apply to any language. We strive for a balance between learning the practical details of everyday development with the theoretical details of algorithms, data structures, and writing great code.
 
-#### Experience
+#### Student Community
 
-The team behind Turing first created Hungry Academy in 2012 then gSchool in 2013. Turing is our third iteration, building on the curriculum and lessons learned in the previous courses.
+We've learned that peer collaboration and mentorship is more valuable than any instruction we can provide, so Turing is built on community.
+
+Our Web Development program is comprised of four 6-week classes with a one-week intermission between each. Every seven weeks a new group of students begins the program so, by late 2014, four classes will run concurrently creating a community of over one hundred students in the building.
+
+### Results
+
+The team behind Turing created Hungry Academy in 2012 then gSchool in 2013. Turing is our third iteration, building on the curriculum and lessons learned in the previous courses.
 
 From over a thousand applicants we've selected and trained 72 students. All 72 have found full-time employment as developers at companies including:
 
@@ -87,11 +93,3 @@ From over a thousand applicants we've selected and trained 72 students. All 72 h
 * Comverge
 * Big Nerd Ranch
 * Tack Mobile
-
-#### Student Community
-
-We've learned that peer collaboration and mentorship is more valuable than any instruction we can provide, so Turing is built on community.
-
-Our Web Development program is comprised of four 6-week classes with a one-week intermission between each. Every seven weeks a new group of students begins the program so, by late 2014, four classes will run concurrently creating a community of over one hundred students in the building.
-
-
