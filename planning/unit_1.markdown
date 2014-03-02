@@ -199,6 +199,28 @@ days, and that it will seem pretty straight-forward to them.
 
 # Week 4
 
+## Premise
+
+## Goals
+
+## Plan
+
+### Monday
+
+### Tuesday
+
+### Wednesday
+
+### Thursday
+
+### Friday
+
+## Additional Resources
+
+## To-Dos
+
+## To Be Processed
+
 Now they've completed the basic CSV-CLI project, we're going to up the
 ante and add a layer of complexity.
 
@@ -224,6 +246,28 @@ same thing over and over again.
 
 # Week 5
 
+## Premise
+
+## Goals
+
+## Plan
+
+### Monday
+
+### Tuesday
+
+### Wednesday
+
+### Thursday
+
+### Friday
+
+## Additional Resources
+
+## To-Dos
+
+## To Be Processed
+
 Sales Engine project work.
 
 I imagine that we might have some instructor-led sessions to help flesh
@@ -231,6 +275,28 @@ out things that they're feeling unsure of, but I don't see any
 particularly critical sessions here.
 
 # Week 6
+
+## Premise
+
+## Goals
+
+## Plan
+
+### Monday
+
+### Tuesday
+
+### Wednesday
+
+### Thursday
+
+### Friday
+
+## Additional Resources
+
+## To-Dos
+
+## To Be Processed
 
 Introducing the Web.
 
