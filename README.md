@@ -20,4 +20,5 @@ See the ongoing [TODO list](https://github.com/JumpstartLab/turing/issues/1).
 * [objects and data I - tutorial](http://tutorials.jumpstartlab.com/academy/workshops/csv/i.html)
 * [objects and data II - tutorial](http://tutorials.jumpstartlab.com/academy/workshops/csv/ii.html)
 * [objects and data - repository](https://github.com/JumpstartLab/csv-exercises)
+* [scripting and command-line](http://tutorials.jumpstartlab.com/topics/cli.html)
 
