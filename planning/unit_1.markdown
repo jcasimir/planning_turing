@@ -68,6 +68,14 @@ somewhat tiny) problems. The students can work through this on their own,
 provided that we are available to talk about confusion (this is a new
 tutorial, and has not been vetted by actually throwing it at students).
 
+CLI means Command Line Interface. Up until now we've only written
+programs that are consumed by the program itself. There's no way for a
+human to interact with the program, you just kick it off and get the
+results.
+
+With CLI we introduce the idea of an interactive program, but not with
+the web, just a simple text-interface in the terminal.
+
 ### Thursday
 
 * [Command Query](https://github.com/JumpstartLab/ruby-exercises/tree/master/command-query)
@@ -80,7 +88,7 @@ problems on their own, and these can be finished at home / over the weekend.
 
 **NOTE: I am comfortable doing this session in the full group. -- _Katrina_**
 
-## Weekend Homework
+### Weekend Homework
 
 * [mythical creatures](https://github.com/JumpstartLab/ruby-exercises/tree/master/mythical-creatures)
 
@@ -111,6 +119,8 @@ Fast-moving students can work on:
 * KO: I don't think this is a problem. For this first group, let's not think
 too much about the scheduling, we'll have a much better idea of how much
 time things take and which things need more lecture/discussion.
+* KO: I'd like to start them on the [CLI tutorial](http://tutorials.jumpstartlab.com/topics/cli.html) as early as possible, because it has some serious potential to let them feel like they kick ass. Perhaps the tutorial part can be in the first week, before even starting with the CSV stuff, or perhaps Monday in week 2 so they have time to rest a bit over the weekend before having their mind blown (albeit with "hello world". But still). The CLI exercises at the end that build on CSV-II could be a nice way to bring the CLI stuff back in after a break from it, and warm them up for the next project, which is EventReporter.
+
 
 # Week 2
 
@@ -178,8 +188,6 @@ boilerplate.
 * KO: Is there any sort of real-world problem that we can have them solve CLI-style? Especially if we can give them a gem to use for the complicated stuff. Just getting the pieces to talk together on their own without any guidance would be really good at this point.
 * JC: What are the learning goals for this week? What does CSV II teach them?
 * KO: CSV-I is very basic objects/methods, good design/code arrangement, using tests at different levels (unit, acceptance), and practicing core ruby stuff and enumerables. CSV-II is an incredibly simplified version of SalesEngine -- two CSV files where the data is linked via an ID, and building the code (using tests) that make it possible to access the data.
-* KO: I'd like to start them on the [CLI tutorial](http://tutorials.jumpstartlab.com/topics/cli.html) as early as possible, because it has some serious potential to let them feel like they kick ass. Perhaps the tutorial part can be in the first week, before even starting with the CSV stuff, or perhaps Monday in week 2 so they have time to rest a bit over the weekend before having their mind blown (albeit with "hello world". But still). The CLI exercises at the end that build on CSV-II could be a nice way to bring the CLI stuff back in after a break from it, and warm them up for the next project, which is EventReporter.
-
 # Week 3
 
 ## Premise
@@ -192,15 +200,6 @@ This week centers around the first real independent project, EventReporter. The 
 
 ### Monday
 
-* Intro to CLI
-
-CLI means Command Line Interface. Up until now we've only written
-programs that are consumed by the program itself. There's no way for a
-human to interact with the program, you just kick it off and get the
-results.
-
-With CLI we introduce the idea of an interactive program, but not with
-the web, just a simple text-interface in the terminal.
 
 ### Tuesday
 
