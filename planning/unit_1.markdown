@@ -82,8 +82,15 @@ problems on their own, and these can be finished at home / over the weekend.
 
 ## Weekend Homework
 
+* [mythical creatures](https://github.com/JumpstartLab/ruby-exercises/tree/master/mythical-creatures)
+
+These exercises build on the command-query exercises, and if the students have successfully gotten through the week, it should be easy for them.
+
 * [Objects & Methods](https://github.com/JumpstartLab/ruby-exercises/tree/master/objects-and-methods)
-  tutorial and exercise
+  tutorial and exercise.
+
+This is a stretch-exercise. Most students should be able to get through it,
+but they may have some confusion/questions that need to be cleared up.
 
 ## Additional Resources
 
