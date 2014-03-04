@@ -6,14 +6,16 @@ See the ongoing [TODO list](https://github.com/JumpstartLab/turing/issues/1).
 
 Everything starts off with LOTS of small, focused
 tutorials and exercises that all pretty much build on each other. We're
-ditching several of the early tutorials (microblogger, event manager,
-encryptor), but
+mostly ditching several of the early tutorials (microblogger, event
+manager, encryptor), but
 
 1. We'll keep them on hand as things that students who are fast, doing
 well, ahead of the game can go do in their off-time. It will help keep
 them interested.
 2. We can mine them for things that can be turned into small, focused
 exercises.
+3. We can simplify them a bit, removing the more exotic elements, and then use
+them to re-inforce the fundamental exercises.
 
 We're ditching the focus week. In many ways weeks 1-4 are continuous
 focus weeks.
@@ -27,6 +29,10 @@ In this week we're trying to:
 3. Lay a strong foundation with drills/exercises and lots of repetition
 4. Start the progression to higher-order skills
 
+At the end of the week everyone should have a solid understanding of ruby core
+types, as well as a good idea of the kinds of messages that can be sent to
+them.
+
 ## Plan
 
 ### Monday
@@ -39,36 +45,39 @@ In this week we're trying to:
 ### Tuesday
 
 * Deliver the laptops
-* Environment Setup
-* Ruby Fundamentals
+* [Environment Setup](http://tutorials.jumpstartlab.com/topics/environment/environment.html)
+* [Ruby Fundamentals](https://github.com/JumpstartLab/ruby-exercises/tree/master/core-types)
 * Intro to OS X / command line / text editor
 
 ### Wednesday
 
 * [Intro to TDD](http://tutorials.jumpstartlab.com/academy/workshops/intro-to-tdd.html)
-* Finishing Ruby Fundamentals
-* Intro to CSV, 1A.
+* Finishing [Ruby Fundamentals](https://github.com/JumpstartLab/ruby-exercises/tree/master/core-types)
+* [Comparisons](https://github.com/JumpstartLab/ruby-exercises/tree/master/comparisons)
+* [Intro to CLI](http://tutorials.jumpstartlab.com/topics/cli.html)
 
 Intro to TDD is a 2 hour (or so) instructor-led session that walks through the
 TDD process for a very simple object - a unicorn that has a name, is usually
 white, and that says sparkly things.
 
-The Intro to CSV is a whole set of tutorials/exercises. It's 2 layers
-(I & II), five exercises in each (A, B, C, D, E).
+Intro to CLI introduces the idea of scripting, which requires an understanding
+of PATH and permissions. It also lays a foundation for solving real (if
+somewhat tiny) problems.
 
 ### Thursday
 
-* Continuing Intro to CSV I B-E (instructor led at first, transitioning to independent)
+* [Command Query](https://github.com/JumpstartLab/ruby-exercises/tree/master/command-query)
 * How Git Works (lecture/discussion)
 * Intro to Git with Code School and Git Immersion (independent work)
 
-Intro to CSV I(A) is a tutorial that walks the students through
-each and every step of solving the exercise, then B-E all are
-very similar exercises (different data, different names,
-exact same problem), and they provide progressively less hand-holding.
+Command-Query should probably start with a lecture/discussion, working through
+the first couple of problems together. Then they can work through more of the
+problems on their own, and these can be finished at home / over the weekend.
 
-The students can basically work independently on these, and should be
-able to mostly help each other.
+## Weekend Homework
+
+* [Objects & Methods](https://github.com/JumpstartLab/ruby-exercises/tree/master/objects-and-methods)
+  tutorial and exercise
 
 ## Additional Resources
 
@@ -86,6 +95,9 @@ Fast-moving students can work on:
 * JC: How much of "Ruby Fundamentals" exists? Can we take advantage of existing resources (ours, outside)?
 * KO: Lots! The (ruby-exercises)[https://github.com/JumpstartLab/ruby-exercises] repository is pretty-much the equivalent of Ruby in 100 Minutes, but in a style that makes them actually _think_ about how things work and make hypotheses about why they work that way, and then revise those hypotheses when things go badly. It's a lot like the Koans, except that the Koans give you the answer if you bother to read the error messages. Here you have to actually make a guess before you get to see the real answer, and I find that this is more engaging. I've gone through several of these things with several of the students.
 * JC: We need to make sure that, for the scheduling of future groups at the same time, these stay in blocks no more than three hours in the classroom per day.
+* KO: I don't think this is a problem. For this first group, let's not think
+too much about the scheduling, we'll have a much better idea of how much
+time things take and which things need more lecture/discussion.
 
 # Week 2
 
@@ -94,6 +106,9 @@ Fast-moving students can work on:
 With some grip of fundamental Ruby programming, Week 2 starts to build more significant projects and applications. They approach something you might want to actually build instead of just learning exercises.
 
 ## Goals
+
+* Write classes and objects that collaborate
+* ...?
 
 ## Plan
 
@@ -115,13 +130,27 @@ work through this on their own.
 ### Tuesday
 
 * Intro to Git
+* Intro to CSV, 1A.
+
+The Intro to CSV is a whole set of tutorials/exercises. It's 2 layers
+(I & II), five exercises in each (A, B, C, D, E).
+* Continuing Intro to CSV I B-E (instructor led at first, transitioning to independent)
+
+Intro to CSV I(A) is a tutorial that walks the students through
+each and every step of solving the exercise, then B-E all are
+very similar exercises (different data, different names,
+exact same problem), and they provide progressively less hand-holding.
+
+The students can basically work independently on these, and should be
+able to mostly help each other.
+
+### Wednesday & Thursday
+
 * Intro to CSV II (A)
 
 The Intro to CSV II adds a new layer of complexity to the familiar
 exercises from Intro to CSV I. Again (A) is a full tutorial that walks
 the students through each step.
-
-### Wednesday & Thursday
 
 Intro to CSV II (B-E) the exercises that repeat the concepts and with
 progressive release of responsibility giving the student less and less
