@@ -60,6 +60,8 @@ Intro to TDD is a 2 hour (or so) instructor-led session that walks through the
 TDD process for a very simple object - a unicorn that has a name, is usually
 white, and that says sparkly things.
 
+**NOTE: I am comfortable doing this session in the full group. -- _Katrina_**
+
 Intro to CLI introduces the idea of scripting, which requires an understanding
 of PATH and permissions. It also lays a foundation for solving real (if
 somewhat tiny) problems.
@@ -73,6 +75,8 @@ somewhat tiny) problems.
 Command-Query should probably start with a lecture/discussion, working through
 the first couple of problems together. Then they can work through more of the
 problems on their own, and these can be finished at home / over the weekend.
+
+**NOTE: I am comfortable doing this session in the full group. -- _Katrina_**
 
 ## Weekend Homework
 
