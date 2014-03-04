@@ -64,7 +64,9 @@ white, and that says sparkly things.
 
 Intro to CLI introduces the idea of scripting, which requires an understanding
 of PATH and permissions. It also lays a foundation for solving real (if
-somewhat tiny) problems.
+somewhat tiny) problems. The students can work through this on their own,
+provided that we are available to talk about confusion (this is a new
+tutorial, and has not been vetted by actually throwing it at students).
 
 ### Thursday
 
