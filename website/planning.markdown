@@ -93,3 +93,4 @@ From over a thousand applicants we've selected and trained 72 students. All 72 h
 * Comverge
 * Big Nerd Ranch
 * Tack Mobile
+* Thoughtbot
